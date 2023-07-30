@@ -1,7 +1,7 @@
 #!/usr/bin/env python 
 # -*- coding:utf-8 -*-
 """
-This is custom implementation of (how I name it) Base-LOL.
+This is a custom implementation of (how I name it) Base-LOL.
 It's base 3 with ascii letters. Those are the rules:
     1. Only two characters
     2. The first character uses ascii letters
