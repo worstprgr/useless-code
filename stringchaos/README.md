@@ -1,5 +1,5 @@
 ## WHAT THE F IS GOING ON
-The simple answer: It outputs _"Hello World!"_. I don't get your excitement?  
+The simple answer: It outputs _"Hello World!"_.
 
 The longer answer: Yeah okay, it isn't a simple _"Hello World!"_ program you find on the internet.  
 It is one of the worst implementations you possibly can achieve.  
