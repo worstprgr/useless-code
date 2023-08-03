@@ -42,7 +42,7 @@ With that complete dictionary, we're able to print some words, using **Base-LOL*
 #### Query
 1. Inside the **main.py** you do a query through the **u.query(str)** method.
 2. This method does some cleaning. For example:
-   1. removing trailing whitespace & linebreaks and whitespace between the characters
+   1. removing trailing/leading whitespace & linebreaks and whitespace between the characters
    2. checking if the query is even, otherwise it throws an exception
    3. creating pairs of two characters
 3. After that, it calls the **_baseLOL_decode(list)** method and pulls the desired letter from the dictionary.  
